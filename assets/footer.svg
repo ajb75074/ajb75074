@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for flying Avanie Air. See you at avanie.co">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C3A6FF"/><stop offset=".5" stop-color="#FF7EB6"/><stop offset="1" stop-color="#FFC8A2"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .wave  { animation: wave 9s linear infinite; }
+    .wave2 { animation: wave 14s linear infinite reverse; }
+    @keyframes wave { from { transform: translateX(0) } to { transform: translateX(-600px) } }
+    .t { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; letter-spacing: 5px; fill: #FF7EB6; }
+    .fade { animation: fade 3s ease-in-out infinite; }
+    @keyframes fade { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+  </style>
+  <text class="t fade" x="600" y="30" text-anchor="middle">THANKS FOR FLYING AVANIE AIR  ✈  SEE YOU AT AVANIE.CO</text>
+  <g class="wave2" opacity=".35">
+    <path d="M0 78 Q150 52 300 78 T600 78 T900 78 T1200 78 T1500 78 T1800 78 V120 H0 Z" fill="#C3A6FF"/>
+  </g>
+  <g class="wave" opacity=".85">
+    <path d="M0 92 Q150 70 300 92 T600 92 T900 92 T1200 92 T1500 92 T1800 92 V120 H0 Z" fill="url(#w1)"/>
+  </g>
+</svg>
