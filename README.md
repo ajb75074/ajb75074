@@ -26,6 +26,22 @@ I'm a **UGA Computer Science grad (’26, Magna Cum Laude)** with a Public Healt
 
 <br />
 
+## 🧭 How I work
+
+My favorite parts of any project are **ideation and iteration**. I explore lots of directions before narrowing down, and I learn best by building.
+
+<div align="center">
+
+| 🔍 **1. Discover** | 💡 **2. Diverge** | 🎨 **3. Design** | 🛠️ **4. Build & iterate** |
+|:---:|:---:|:---:|:---:|
+| Talk to real users, map their journey, and find the actual pain point | Sketch many directions and ask "how might we…" before picking one | Turn the best idea into accessible flows and Figma prototypes | Ship it in code, test with people, and keep refining |
+
+</div>
+
+> *Example:* for my capstone I led research with 10+ older adults **before** designing anything. Those sessions shaped every flow in our scam-awareness platform.
+
+<br />
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -178,22 +194,20 @@ EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashb
 
 <br />
 
-## 📈 Flight log
+## 📈 My GitHub activity
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-avanie.svg" width="100%" alt="3D contribution skyline" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=ajb75074&hide_border=true&border_radius=18&background=0B0B1F&ring=FF7EB6&fire=FFC8A2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7EB6&sideLabels=C3A6FF&dates=8F86B5&stroke=2A1B4A" width="70%" alt="GitHub streak" />
+<sub>My coding streak: total contributions, current streak, and longest streak.</sub><br />
+<img src="https://streak-stats.demolab.com?user=ajb75074&hide_border=true&border_radius=18&background=0B0B1F&ring=FF7EB6&fire=FFC8A2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7EB6&sideLabels=C3A6FF&dates=8F86B5&stroke=2A1B4A" width="70%" alt="GitHub streak: total contributions, current streak, longest streak" />
 
 <br /><br />
 
+<sub>My contribution calendar from the past year (each square is a day I committed code), with a snake eating through it. 🐍</sub><br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-dark.svg" alt="Snake eating my contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-dark.svg" alt="Snake eating my contribution calendar" width="100%" />
 </picture>
 
 </div>
