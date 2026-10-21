@@ -201,7 +201,12 @@ EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashb
 
 <div align="center">
 
-<sub>My coding streak: total contributions, current streak, and longest streak.</sub><br />
+<sub>The languages I build with, across my public and private projects.</sub><br />
+<img src="./assets/languages-pie.svg" width="85%" alt="Languages across my projects: TypeScript 37%, HTML 21%, CSS 17%, Java 12%, JavaScript 12%" />
+
+<br /><br />
+
+<sub>My coding streak (public + private contributions): total contributions, current streak, and longest streak.</sub><br />
 <img src="https://streak-stats.demolab.com?user=ajb75074&hide_border=true&border_radius=18&background=0B0B1F&ring=FF7EB6&fire=FFC8A2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7EB6&sideLabels=C3A6FF&dates=8F86B5&stroke=2A1B4A" width="70%" alt="GitHub streak: total contributions, current streak, longest streak" />
 
 <br /><br />
