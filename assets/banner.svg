@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Avanie Baptiste — UX / Product Designer and Software Engineer. Let creativity fly.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0B1F"/>
+      <stop offset="0.55" stop-color="#1E1440"/>
+      <stop offset="1" stop-color="#3A1D57"/>
+    </linearGradient>
+    <radialGradient id="glowPink" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF7EB6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF7EB6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowLilac" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9D7BFF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9D7BFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#FFC8A2"/>
+      <stop offset="0.35" stop-color="#FF7EB6"/>
+      <stop offset="0.7" stop-color="#C3A6FF"/>
+      <stop offset="1" stop-color="#FFC8A2"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="nameBase" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFC8A2"/>
+      <stop offset="0.5" stop-color="#FF7EB6"/>
+      <stop offset="1" stop-color="#C3A6FF"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF7EB6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFC8A2" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="0.6"/></filter>
+    <clipPath id="card"><rect width="1200" height="360" rx="28"/></clipPath>
+    <path id="flight" d="M -80 352 C 350 354, 650 332, 840 240 S 1120 80, 1290 70"/>
+  </defs>
+
+  <style>
+    .serif { font-family: 'Playfair Display', Didot, 'Bodoni 72', Georgia, 'Times New Roman', serif; }
+    .sans  { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono  { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Courier New', monospace; }
+    .rise  { opacity: 0; animation: rise 1s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .15s } .d2 { animation-delay: .45s } .d3 { animation-delay: .75s } .d4 { animation-delay: 1.05s }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
+    .tw { animation: tw 3s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
+    .drift  { animation: drift 26s linear infinite; }
+    .drift2 { animation: drift 38s linear infinite; animation-delay: -14s; }
+    @keyframes drift { from { transform: translateX(-260px) } to { transform: translateX(1300px) } }
+    .pulse { animation: pulse 7s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 0%,100% { transform: scale(1); opacity: .8 } 50% { transform: scale(1.18); opacity: 1 } }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .dash { stroke-dasharray: 4 10; animation: dash 1.2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -14 } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#sky)"/>
+
+    <!-- aurora glows -->
+    <ellipse class="pulse" cx="980" cy="70" rx="260" ry="160" fill="url(#glowPink)"/>
+    <ellipse class="pulse" style="animation-delay:-3s" cx="180" cy="330" rx="300" ry="170" fill="url(#glowLilac)"/>
+
+    <!-- stars -->
+    <g fill="#FFFFFF">
+      <circle class="tw" cx="70"  cy="48"  r="1.6"/>
+      <circle class="tw" style="animation-delay:.6s"  cx="160" cy="110" r="1.1"/>
+      <circle class="tw" style="animation-delay:1.2s" cx="300" cy="40"  r="1.4"/>
+      <circle class="tw" style="animation-delay:.3s"  cx="455" cy="88"  r="1"/>
+      <circle class="tw" style="animation-delay:1.8s" cx="590" cy="34"  r="1.7"/>
+      <circle class="tw" style="animation-delay:.9s"  cx="720" cy="72"  r="1.1"/>
+      <circle class="tw" style="animation-delay:2.2s" cx="850" cy="28"  r="1.3"/>
+      <circle class="tw" style="animation-delay:1.5s" cx="1110" cy="190" r="1.2"/>
+      <circle class="tw" style="animation-delay:.2s"  cx="1150" cy="300" r="1.5"/>
+      <circle class="tw" style="animation-delay:2.6s" cx="40"  cy="200" r="1.2"/>
+      <circle class="tw" style="animation-delay:1s"   cx="520" cy="320" r="1"/>
+      <circle class="tw" style="animation-delay:2s"   cx="930" cy="330" r="1.3"/>
+    </g>
+    <!-- sparkles -->
+    <g fill="#FFC8A2">
+      <path class="tw" style="animation-delay:.4s" d="M1040 236 l3 9 9 3 -9 3 -3 9 -3 -9 -9 -3 9 -3z"/>
+      <path class="tw" style="animation-delay:1.6s" d="M110 70 l2.2 6.6 6.6 2.2 -6.6 2.2 -2.2 6.6 -2.2 -6.6 -6.6 -2.2 6.6 -2.2z"/>
+      <path class="tw" style="animation-delay:2.4s" d="M760 300 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z" fill="#C3A6FF"/>
+    </g>
+
+    <!-- clouds -->
+    <g class="drift" opacity=".22" filter="url(#blur)">
+      <ellipse cx="0" cy="250" rx="130" ry="26" fill="#C3A6FF"/>
+      <ellipse cx="60" cy="236" rx="80" ry="24" fill="#FFC8A2"/>
+    </g>
+    <g class="drift2" opacity=".18" filter="url(#blur)">
+      <ellipse cx="0" cy="110" rx="150" ry="22" fill="#FF7EB6"/>
+    </g>
+
+    <!-- flight path + plane -->
+    <use href="#flight" fill="none" stroke="#FFFFFF" stroke-opacity=".22" stroke-width="2" class="dash"/>
+    <g>
+      <g transform="translate(-8 -8)">
+        <circle cx="8" cy="8" r="16" fill="#FF7EB6" opacity=".25" filter="url(#soft)"/>
+        <!-- little jet, nose pointing +x -->
+        <path d="M-6 8 L22 8 Q27 8 27 9.5 Q27 11 22 11 L-6 11 Z" fill="#FFFFFF"/>
+        <path d="M6 9 L-2 -4 L3 -4 L14 9 Z" fill="#FFC8A2"/>
+        <path d="M6 10 L-2 23 L3 23 L14 10 Z" fill="#FF7EB6"/>
+        <path d="M-6 9 L-10 2 L-6 2 L-1 9 Z" fill="#C3A6FF"/>
+      </g>
+      <animateMotion dur="9s" repeatCount="indefinite" rotate="auto" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines=".45 0 .55 1">
+        <mpath href="#flight"/>
+      </animateMotion>
+    </g>
+
+    <!-- boarding tag -->
+    <g transform="translate(880 36)"><g class="rise d4 mono">
+      <rect width="282" height="34" rx="17" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".18"/>
+      <circle class="blink" cx="22" cy="17" r="5" fill="#7CF2B0"/>
+      <text x="38" y="22" font-size="13" fill="#EDE7FF" letter-spacing="2">NOW BOARDING · AVN 026</text>
+    </g></g>
+
+    <!-- copy -->
+    <text class="rise d1 mono" x="70" y="96" font-size="15" letter-spacing="6" fill="#C3A6FF">HI, I'M</text>
+    <text class="rise d2 serif" x="66" y="176" font-size="86" font-weight="700" font-style="italic" fill="url(#nameBase)">Avanie Baptiste</text>
+    <text class="rise d2 serif" x="66" y="176" font-size="86" font-weight="700" font-style="italic" fill="url(#name)">Avanie Baptiste</text>
+    <text class="rise d3 sans" x="70" y="226" font-size="26" font-weight="600" fill="#FFFFFF">UX / Product Designer <tspan fill="#FF7EB6">✦</tspan> Software Engineer</text>
+    <text class="rise d4 sans" x="70" y="262" font-size="17" fill="#B9B0D9">Carrying products from first sketch to final build — mobile, web &amp; AI.</text>
+    <text class="rise d4 mono" x="70" y="318" font-size="13" letter-spacing="7" fill="#FFC8A2">LET CREATIVITY FLY</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="2"/>
+</svg>
