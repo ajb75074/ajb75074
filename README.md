@@ -51,12 +51,10 @@ My favorite parts of any project are **ideation and iteration**. I explore lots 
 - 👗 **[Wishlist](https://github.com/ajb75074/Wishlist)** — save fashion from any store, style looks on a canvas, and preview outfits with AI
 - 🧃 A custom **Next.js + GSAP storefront** for a local juice brand (client build)
 - 📊 **Breaking Games externship** — e-commerce analytics, marketing attribution & a SQLite-backed dashboard
-- 🔍 An **AI design-critique tool**: drop in a screenshot, get an accessibility audit + UX critique
-- 📱 A SwiftUI app that's basically *Strava for creative work*
+- 📡 Exploring **NFC tags & hardware** — tinkering with tap-to-interact experiences that bridge physical and digital
 
 ### Currently learning
 - ☁️ AWS Cloud Practitioner fundamentals
-- 🍎 SwiftUI & native iOS patterns
 - 📈 Data analysis: SQL, Excel dashboards & sentiment analysis (Power BI is next)
 
 </td>
@@ -70,10 +68,10 @@ My favorite parts of any project are **ideation and iteration**. I explore lots 
 - Fashion tech, editorial design & 2000s dress-up-game UX
 
 ### Fun fact
-I once built a hackathon app that composes **music for plants** 🌱🎶 — [GrowBeets](https://github.com/ajb75074/GrowBeets-HacksX) finds the sound frequencies that help them grow. Also: my portfolio is an airline. ✈️
+I studied abroad in **Hawaii** 🌺, where I explored the intersection of people, sustainability, and business. Also: my portfolio is an airline. ✈️
 
 ### Open to
-React Native / mobile engineering · UX & product design · AI product roles — [see my resume](https://github.com/ajb75074/ajb75074/blob/main/Avanie_Baptiste_Resume.pdf)
+Software engineering · UX & product design · Product management · Consulting · Analysis — [see my resume](https://github.com/ajb75074/ajb75074/blob/main/Avanie_Baptiste_Resume.pdf)
 
 </td>
 </tr>
