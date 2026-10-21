@@ -111,10 +111,6 @@ const avanie = {
 <img src="https://skillicons.dev/icons?i=flutter,swift&theme=dark" alt="Flutter, Swift" /><br />
 <sub>Flutter · Swift</sub>
 
-**Web & full-stack**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,html,css,supabase,postgres,firebase,sqlite,vercel&theme=dark" alt="TypeScript, JavaScript, Java, Next.js, React, HTML, CSS, Supabase, PostgreSQL, Firebase, SQLite, Vercel" /><br />
-<sub>TypeScript · JavaScript · Java · Next.js · React · HTML · CSS · Supabase · PostgreSQL · Firebase · SQLite · Vercel</sub>
-
 **Data analysis, ML & cloud**<br />
 <img src="https://skillicons.dev/icons?i=py,sklearn,aws&theme=dark" alt="Python, scikit-learn, AWS" /><br />
 <sub>Python · scikit-learn · AWS — plus SQL, Excel & Jupyter for data analysis</sub>
@@ -122,6 +118,10 @@ const avanie = {
 **Design & workflow**<br />
 <img src="https://skillicons.dev/icons?i=figma,git,github,githubactions,vscode&theme=dark" alt="Figma, Git, GitHub, GitHub Actions, VS Code" /><br />
 <sub>Figma · Git · GitHub · GitHub Actions · VS Code</sub>
+
+**Web & full-stack**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,html,css,supabase,postgres,firebase,sqlite,vercel&theme=dark" alt="TypeScript, JavaScript, Java, Next.js, React, HTML, CSS, Supabase, PostgreSQL, Firebase, SQLite, Vercel" /><br />
+<sub>TypeScript · JavaScript · Java · Next.js · React · HTML · CSS · Supabase · PostgreSQL · Firebase · SQLite · Vercel</sub>
 
 **AI & motion**<br />
 <img src="https://img.shields.io/badge/OpenAI_API-0B0B1F?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI API" />
