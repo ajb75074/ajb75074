@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Avanie Baptiste — UX / Product Designer & Software Engineer. Let creativity fly." />
 
 <a href="https://avanie.co">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=720&height=48&lines=Designing+interfaces+people+enjoy+using+%E2%9C%A6;From+Figma+frame+%E2%86%92+production+build;Shipping+React+Native%2C+Flutter+%26+Next.js;Building+AI+tools+for+real+UX+%26+a11y+problems;Let+creativity+fly+%E2%9C%88" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=720&height=48&lines=Designing+interfaces+people+enjoy+using+%E2%9C%A6;From+Figma+frame+%E2%86%92+production+build;Shipping+React+Native%2C+Flutter+%26+Next.js;Building+accessible%2C+AI-powered+tools;Let+creativity+fly+%E2%9C%88" alt="Typing intro" />
 </a>
 
 <p>
@@ -18,7 +18,7 @@
 
 <br />
 
-## ✈️ Now boarding
+## Now boarding
 
 <img src="./assets/boarding-pass.svg" width="100%" alt="Boarding pass: Avanie Baptiste, UGA CS '26 → your team. Class: Design × Engineering. Seat: Full-stack. Status: open to roles." />
 
@@ -26,13 +26,13 @@ I'm a **UGA Computer Science grad (’26, Magna Cum Laude)** with a Public Healt
 
 <br />
 
-## 🧭 How I work
+## How I work
 
 My favorite parts of any project are **ideation and iteration**. I explore lots of directions before narrowing down, and I learn best by building.
 
 <div align="center">
 
-| 🔍 **1. Discover** | 💡 **2. Diverge** | 🎨 **3. Design** | 🛠️ **4. Build & iterate** |
+| **1. Discover** | **2. Diverge** | **3. Design** | **4. Build & iterate** |
 |:---:|:---:|:---:|:---:|
 | Talk to real users, map their journey, and find the actual pain point | Sketch many directions and ask "how might we…" before picking one | Turn the best idea into accessible flows and Figma prototypes | Ship it in code, test with people, and keep refining |
 
@@ -46,32 +46,32 @@ My favorite parts of any project are **ideation and iteration**. I explore lots 
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 Currently working on
+### Currently working on
 - 👗 **[Wishlist](https://github.com/ajb75074/Wishlist)** — save fashion from any store, style looks on a canvas, and preview outfits with AI
 - 🧃 A custom **Next.js + GSAP storefront** for a local juice brand (client build)
 - 📊 **Breaking Games externship** — e-commerce analytics, marketing attribution & a SQLite-backed dashboard
 - 🔍 An **AI design-critique tool**: drop in a screenshot, get an accessibility audit + UX critique
 - 📱 A SwiftUI app that's basically *Strava for creative work*
 
-### 🌱 Currently learning
+### Currently learning
 - ☁️ AWS Cloud Practitioner fundamentals
 - 🍎 SwiftUI & native iOS patterns
-- 📈 SQL + analytics tooling (Power BI is next)
+- 📈 Data analysis: SQL, Excel dashboards & sentiment analysis (Power BI is next)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Ask me about
+### Ask me about
 - Turning Figma designs into pixel-true **Flutter / React Native** screens
 - Framework migrations (Angular → Flutter, been there 🫡)
 - Accessibility & designing for **adults 65+** (my scam-awareness capstone)
 - Chrome extensions, Supabase & on-device ML in the browser
 - Fashion tech, editorial design & 2000s dress-up-game UX
 
-### ⚡ Fun fact
+### Fun fact
 I once built a hackathon app that composes **music for plants** 🌱🎶 — [GrowBeets](https://github.com/ajb75074/GrowBeets-HacksX) finds the sound frequencies that help them grow. Also: my portfolio is an airline. ✈️
 
-### 🎯 Open to
+### Open to
 React Native / mobile engineering · UX & product design · AI product roles
 
 </td>
@@ -79,7 +79,7 @@ React Native / mobile engineering · UX & product design · AI product roles
 </table>
 
 <details>
-<summary><b>🧾 In-flight manifest</b> <sub>(click to expand)</sub></summary>
+<summary><b>In-flight manifest</b> <sub>(click to expand)</sub></summary>
 <br />
 
 ```ts
@@ -103,23 +103,27 @@ const avanie = {
 
 <br />
 
-## 🧳 Cargo hold — tech stack
+## Cargo hold — tech stack
 
 <div align="center">
 
-**📱 Mobile**<br />
-<img src="https://skillicons.dev/icons?i=flutter,swift&theme=dark" alt="Flutter, Swift" />
+**Mobile**<br />
+<img src="https://skillicons.dev/icons?i=flutter,swift&theme=dark" alt="Flutter, Swift" /><br />
+<sub>Flutter · Swift</sub>
 
-**🌐 Web & full-stack**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,html,css,supabase,postgres,firebase,sqlite,vercel&theme=dark" alt="TypeScript, JavaScript, Java, Next.js, React, HTML, CSS, Supabase, PostgreSQL, Firebase, SQLite, Vercel" />
+**Web & full-stack**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,html,css,supabase,postgres,firebase,sqlite,vercel&theme=dark" alt="TypeScript, JavaScript, Java, Next.js, React, HTML, CSS, Supabase, PostgreSQL, Firebase, SQLite, Vercel" /><br />
+<sub>TypeScript · JavaScript · Java · Next.js · React · HTML · CSS · Supabase · PostgreSQL · Firebase · SQLite · Vercel</sub>
 
-**🧠 Data, ML & cloud**<br />
-<img src="https://skillicons.dev/icons?i=py,sklearn,wasm,aws&theme=dark" alt="Python, scikit-learn, WebAssembly, AWS" />
+**Data analysis, ML & cloud**<br />
+<img src="https://skillicons.dev/icons?i=py,sklearn,aws&theme=dark" alt="Python, scikit-learn, AWS" /><br />
+<sub>Python · scikit-learn · AWS — plus SQL, Excel & Jupyter for data analysis</sub>
 
-**🎨 Design & workflow**<br />
-<img src="https://skillicons.dev/icons?i=figma,git,github,githubactions,vscode&theme=dark" alt="Figma, Git, GitHub, GitHub Actions, VS Code" />
+**Design & workflow**<br />
+<img src="https://skillicons.dev/icons?i=figma,git,github,githubactions,vscode&theme=dark" alt="Figma, Git, GitHub, GitHub Actions, VS Code" /><br />
+<sub>Figma · Git · GitHub · GitHub Actions · VS Code</sub>
 
-**✨ AI & motion**<br />
+**AI & motion**<br />
 <img src="https://img.shields.io/badge/OpenAI_API-0B0B1F?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/Gemini-0B0B1F?style=for-the-badge&logo=googlegemini&logoColor=C3A6FF" alt="Gemini" />
 <img src="https://img.shields.io/badge/Claude-0B0B1F?style=for-the-badge&logo=claude&logoColor=FFC8A2" alt="Claude" />
@@ -133,13 +137,13 @@ const avanie = {
 
 <br />
 
-## 🗺️ Recent flights
+## Recent flights
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👗 [Wishlist](https://github.com/ajb75074/Wishlist)
+### [Wishlist](https://github.com/ajb75074/Wishlist)
 A fashion wishlist + outfit planner. Save pieces from any retailer with a Chrome extension, sort them into trips & events, style them in a drag-and-drop **Look Studio**, and visualize the outfit with AI. Designed and built solo, end to end.
 
 `React` `Supabase` `Chrome MV3` `ONNX/WASM` `Gemini`
@@ -147,7 +151,7 @@ A fashion wishlist + outfit planner. Save pieces from any retailer with a Chrome
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [GrowBeets](https://github.com/ajb75074/GrowBeets-HacksX)
+### [GrowBeets](https://github.com/ajb75074/GrowBeets-HacksX)
 Hackathon build that generates **playlists for your plants** — matching sound frequencies research links to healthier growth.
 
 `Next.js` `TypeScript` `OpenAI API`
@@ -157,7 +161,7 @@ Hackathon build that generates **playlists for your plants** — matching sound 
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Data Mining for Drug Discovery](https://github.com/partha-pkp/data-mining-drug-discovery)
+### [Data Mining for Drug Discovery](https://github.com/partha-pkp/data-mining-drug-discovery)
 Screened **4,866 compounds** where only 2.12% were positives. I built cost-sensitive **Logistic Regression & Rotation Forest** models, reaching **~81% recall** with class-balanced LR — and learned the most from the false positives.
 
 `Python` `scikit-learn` `Jupyter`
@@ -165,7 +169,7 @@ Screened **4,866 compounds** where only 2.12% were positives. I built cost-sensi
 </td>
 <td width="50%" valign="top">
 
-### 🧃 Juice storefront <sub>(private client build)</sub>
+### Juice storefront <sub>(private client build)</sub>
 A custom e-commerce site with cart & bundle logic and scroll-driven **GSAP** animations.
 
 `Next.js` `TypeScript` `GSAP`
@@ -175,7 +179,7 @@ A custom e-commerce site with cart & bundle logic and scroll-driven **GSAP** ani
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Scam-awareness platform <sub>(UGA capstone)</sub>
+### Scam-awareness platform <sub>(UGA capstone)</sub>
 With Seraph Secure & the UGA CARE Center: accessible flows and responsive Figma interfaces that teach **adults 65+** to spot scams, built on the SAFE framework. I led research with 10+ participants.
 
 `Figma` `User Research` `Accessibility`
@@ -183,7 +187,7 @@ With Seraph Secure & the UGA CARE Center: accessible flows and responsive Figma 
 </td>
 <td width="50%" valign="top">
 
-### 🎧 Consumer insights — Beats by Dre project
+### Consumer insights — Beats by Dre project
 EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashboards, AI summaries, an Ideal Consumer List and an AIDA journey map that focused marketing on 3 segments and 5 touchpoints.
 
 `Python` `Sentiment Analysis` `Dashboards`
@@ -194,7 +198,7 @@ EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashb
 
 <br />
 
-## 📈 My GitHub activity
+## My GitHub activity
 
 <div align="center">
 
@@ -203,7 +207,7 @@ EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashb
 
 <br /><br />
 
-<sub>My contribution calendar from the past year (each square is a day I committed code), with a snake eating through it. 🐍</sub><br />
+<sub>My contribution calendar from the past year (each square is a day I committed code), with a snake eating through it.</sub><br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajb75074/ajb75074/output/snake-light.svg" />
