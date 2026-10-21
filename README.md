@@ -13,7 +13,6 @@
   <a href="mailto:avaniebaptiste@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-FF7EB6?style=for-the-badge&labelColor=0B0B1F&logo=gmail&logoColor=FF7EB6" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ajb75074&label=PASSENGERS+ON+BOARD&color=FF7EB6&style=flat-square&abbreviated=true" alt="Profile views" />
 
 </div>
 
@@ -187,8 +186,7 @@ EDA + **sentiment analysis** on 1,000 Amazon reviews across 5 speakers → dashb
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=ajb75074&hide_border=true&border_radius=18&background=0B0B1F&ring=FF7EB6&fire=FFC8A2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7EB6&sideLabels=C3A6FF&dates=8F86B5&stroke=2A1B4A" width="49%" alt="GitHub streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajb75074&bg_color=0B0B1F&color=C3A6FF&title_color=FF7EB6&line=FF7EB6&point=FFC8A2&area=true&area_color=FF7EB6&hide_border=true&radius=18&custom_title=Recent%20activity&height=195" width="49%" alt="Activity graph" />
+<img src="https://streak-stats.demolab.com?user=ajb75074&hide_border=true&border_radius=18&background=0B0B1F&ring=FF7EB6&fire=FFC8A2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7EB6&sideLabels=C3A6FF&dates=8F86B5&stroke=2A1B4A" width="70%" alt="GitHub streak" />
 
 <br /><br />
 
