@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-avanie.svg",
+  "backgroundColor": "#0B0B1F",
+  "foregroundColor": "#EDE7FF",
+  "strongColor": "#FF7EB6",
+  "weakColor": "#8F86B5",
+  "radarColor": "#FF7EB6",
+  "growingAnimation": true,
+  "contribColors": ["#1E1640", "#4B2A7A", "#8A4FC2", "#D06AC8", "#FF7EB6"]
+}
