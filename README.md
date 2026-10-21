@@ -92,7 +92,7 @@ const avanie = {
 <div align="center">
 
 **📱 Mobile**<br />
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,swift,angular&theme=dark" alt="React Native, Flutter, Dart, Swift, Angular" />
+<img src="https://skillicons.dev/icons?i=flutter,swift&theme=dark" alt="Flutter, Swift" />
 
 **🌐 Web & full-stack**<br />
 <img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,html,css,supabase,postgres,firebase,sqlite,vercel&theme=dark" alt="TypeScript, JavaScript, Java, Next.js, React, HTML, CSS, Supabase, PostgreSQL, Firebase, SQLite, Vercel" />
