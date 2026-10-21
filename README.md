@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://avanie.co"><img src="https://img.shields.io/badge/Portfolio-avanie.co-FF7EB6?style=for-the-badge&labelColor=0B0B1F&logo=googlechrome&logoColor=FF7EB6" alt="Portfolio" /></a>
+  <a href="https://github.com/ajb75074/ajb75074/blob/main/Avanie_Baptiste_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FFC8A2?style=for-the-badge&labelColor=0B0B1F&logo=readthedocs&logoColor=FFC8A2" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/avanie-baptiste/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C3A6FF?style=for-the-badge&labelColor=0B0B1F&logo=linkedin&logoColor=C3A6FF" alt="LinkedIn" /></a>
   <a href="https://medium.com/@avaniebaptiste"><img src="https://img.shields.io/badge/Medium-Read-FFC8A2?style=for-the-badge&labelColor=0B0B1F&logo=medium&logoColor=FFC8A2" alt="Medium" /></a>
   <a href="mailto:avaniebaptiste@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-FF7EB6?style=for-the-badge&labelColor=0B0B1F&logo=gmail&logoColor=FF7EB6" alt="Email" /></a>
@@ -72,7 +73,7 @@ My favorite parts of any project are **ideation and iteration**. I explore lots 
 I once built a hackathon app that composes **music for plants** 🌱🎶 — [GrowBeets](https://github.com/ajb75074/GrowBeets-HacksX) finds the sound frequencies that help them grow. Also: my portfolio is an airline. ✈️
 
 ### Open to
-React Native / mobile engineering · UX & product design · AI product roles
+React Native / mobile engineering · UX & product design · AI product roles — [see my resume](https://github.com/ajb75074/ajb75074/blob/main/Avanie_Baptiste_Resume.pdf)
 
 </td>
 </tr>
